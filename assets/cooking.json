@@ -1,0 +1,100 @@
+{
+  "recipes": [
+    {
+      "name": "Recipe 1",
+      "cuisine": ["Indian"],
+      "diet": ["vegetarian"],
+      "type": "Type 1",
+      "difficulty": "Easy",
+      "cooking_time": "30 minutes",
+      "instructions": ["Instruction 1", "Instruction 2"]
+    },
+    {
+      "name": "Recipe 2",
+      "cuisine": ["Mediterranean"],
+      "diet": ["Non-vegetarian"],
+      "type": "Type 2",
+      "difficulty": "Medium",
+      "cooking_time": "45 minutes",
+      "instructions": ["Instruction 1", "Instruction 2"]
+    },
+    {
+      "name": "Recipe 3",
+      "cuisine": ["Indian"],
+      "diet": ["vegan"],
+      "type": "Type 3",
+      "difficulty": "Hard",
+      "cooking_time": "60 minutes",
+      "instructions": ["Instruction 1", "Instruction 2"]
+    },
+    {
+      "name": "Recipe 4",
+      "cuisine": ["Mediterranean"],
+      "diet": ["vegetarian"],
+      "type": "Type 4",
+      "difficulty": "Easy",
+      "cooking_time": "15 minutes",
+      "instructions": ["Instruction 1", "Instruction 2"]
+    },
+    {
+      "name": "Recipe 5",
+      "cuisine": ["Indian"],
+      "diet": ["Non-vegetarian"],
+      "type": "Type 5",
+      "difficulty": "Medium",
+      "cooking_time": "30 minutes",
+      "instructions": ["Instruction 1", "Instruction 2"],
+      "proteins": ["chicken"]
+    },
+    {
+      "name": "Recipe 6",
+      "cuisine": ["Mediterranean"],
+      "diet": ["vegan"],
+      "type": "Type 6",
+      "difficulty": "Hard",
+      "cooking_time": "45 minutes",
+      "instructions": ["Instruction 1", "Instruction 2"],
+      "proteins": ["chicken"]
+    },
+    {
+      "name": "Recipe 7",
+      "cuisine": ["Indian"],
+      "diet": ["vegetarian"],
+      "type": "Type 7",
+      "difficulty": "Easy",
+      "cooking_time": "30 minutes",
+      "instructions": ["Instruction 1", "Instruction 2"],
+      "proteins": ["chicken"]
+    },
+    {
+      "name": "Recipe 8",
+      "cuisine": ["Mediterranean"],
+      "diet": ["Non-vegetarian"],
+      "type": "Type 8",
+      "difficulty": "Medium",
+      "cooking_time": "45 minutes",
+      "instructions": ["Instruction 1", "Instruction 2"],
+      "proteins": ["chicken"]
+    },
+    {
+      "name": "Recipe 9",
+      "cuisine": ["Indian"],
+      "diet": ["vegan"],
+      "type": "Type 9",
+      "difficulty": "Hard",
+      "cooking_time": "60 minutes",
+      "instructions": ["Instruction 1", "Instruction 2"],
+      "proteins": ["mutton"]
+    },
+    {
+      "name": "Recipe 10",
+      "cuisine": ["Mediterranean"],
+      "diet": ["vegetarian"],
+      "type": "Type 10",
+      "difficulty": "Easy",
+      "cooking_time": "15 minutes",
+      "instructions": ["Instruction 1", "Instruction 2"],
+      "proteins": ["mutton"]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "restaurants": [
+    {
+      "name": "Restaurant 1",
+      "diet": ["vegetarian"],
+      "cuisine": ["indian", "mediterranean"],
+      "proteins": ["chicken"]
+    },
+    {
+      "name": "Restaurant 2",
+      "diet": ["non-vegetarian"],
+      "cuisine": ["indian"],
+      "proteins": ["mutton"]
+    },
+    {
+      "name": "Restaurant 3",
+      "diet": ["vegan"],
+      "cuisine": ["mediterranean"],
+      "proteins": []
+    },
+    {
+      "name": "Restaurant 4",
+      "diet": ["vegetarian", "non-vegetarian"],
+      "cuisine": ["indian", "mediterranean"],
+      "proteins": []
+    }
+  ]
+}
